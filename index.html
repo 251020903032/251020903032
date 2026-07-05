@@ -1,2 +1,21 @@
 <!DOCTYPE html>
-<html lang="en"><head>    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>Bài tập sử dụng các tag cơ bản</title></head><body>    <div><h1 style="text-align:center"><b>Bai1: cach su dung cac tag co ban</b>    </h1></div>    <div>        <h2 >            <b><u>yeu cau:</u></b>        </h2>        <h3>            <b>thiet ke trang web noi dung nhu sau:</b>        </h3></div>    <h1 class="me" style="text-align: center;"> MẸ! </h1>    <div class="tho">    <p style="color: blue;text-align: center;">        Mẹ là cả một trời thương<br>Mẹ là cả một thiên đường trần gian<br>Công ơn cha mẹ tựa biển trời <br></p><hr width="350px">    <p style="color:blueviolet;text-align: center;">Làm sao báo hiếu hỡi người ơi?<br>Nếu chưa báo hiếu đừng bất hiếu<br>Bất hiếu làm ta khổ muôn đời.<br></p><hr width="350px"><p></p>    <p style="color:springgreen;text-align: center;">Một đời vốn liếng mẹ trao<br>Mẹ cho tất cả mẹ nào giữ riêng<br>Mẹ hiền như một bà tiên<br>Mẹ theo con suốt hành trình con đi</p>    <p></p></div></body></html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web</title>
+    <style>p{color:blue;font-size:14px;}</style>
+</head>
+<body>
+    <a class="a b" href="#d1">Go D1</a>
+    <a class="c d" href="#d2">Go D2</a>
+    <div id="d1" class="e f g h i j k l m n o p q">
+        <p class="r s t">Anh o day</p>
+        <img class="u v" src="Screenshot (33).png" alt="img">
+    </div>
+    <div id="d2" class="w x y z aa bb cc dd ee ff gg">
+        <p class="hh ii jj">Link o day</p>
+        <a class="kk ll" href="https://store.steampowered.com/app/1562700/SANABI/">Steam</a>
+    </div>
+</body>
+</html>
